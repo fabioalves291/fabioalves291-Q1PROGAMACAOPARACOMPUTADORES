@@ -1,4 +1,5 @@
-# Q1PROGAMACAOPARACOMPUTADORES
+# Q1 PROGAMACÃO PARA COMPUTADORES.
+práticas realizadas na disciplina de **Programação de Computadores.** (tecnologia em redes de computadores)
 1. Fazer um programa que realize as seguintes orientações:
 
 * Ler o arquivo gabarito.txt (arquivo fornecido no Moodle) e guardar os seus dados em uma lista;
